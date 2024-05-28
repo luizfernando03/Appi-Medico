@@ -1,5 +1,6 @@
 package med.voll.api.controller;
 
+import med.voll.api.medicos.DadosCadastroMedico;
 import org.springframework.web.bind.annotation.*;
 
 @RestController
