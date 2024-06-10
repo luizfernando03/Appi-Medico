@@ -1,6 +1,7 @@
 package med.voll.api.endereco;
 
 
+
 public class Endereco {
 
     private String logradouro;
